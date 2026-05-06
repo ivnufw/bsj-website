@@ -1,0 +1,50 @@
+{
+    "student_schedule": {
+        "title": "\u0e15\u0e32\u0e23\u0e32\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19",
+        "link": "#student-schedule-default"
+    },
+    "student_club": {
+        "title": "\u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e0a\u0e38\u0e21\u0e19\u0e38\u0e21",
+        "link": "#student-club-default"
+    },
+    "about_history": {
+        "title": "\u0e1b\u0e23\u0e30\u0e27\u0e31\u0e15\u0e34\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19",
+        "link": "#about-history-default"
+    },
+    "about_vision": {
+        "title": "\u0e27\u0e34\u0e2a\u0e31\u0e22\u0e17\u0e31\u0e28\u0e19\u0e4c\u0e41\u0e25\u0e30\u0e1e\u0e31\u0e19\u0e18\u0e01\u0e34\u0e08",
+        "link": "#about-vision-default"
+    },
+    "about_curriculum": {
+        "title": "\u0e2b\u0e25\u0e31\u0e01\u0e2a\u0e39\u0e15\u0e23\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32",
+        "link": "#about-curriculum-default"
+    },
+    "about_calendar": {
+        "title": "\u0e1b\u0e0f\u0e34\u0e17\u0e34\u0e19\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19",
+        "link": "#about-calendar-default"
+    },
+    "about_map": {
+        "title": "\u0e41\u0e1c\u0e19\u0e1c\u0e31\u0e07\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19",
+        "link": "#about-map-default"
+    },
+    "about_complaint": {
+        "title": "\u0e01\u0e32\u0e23\u0e23\u0e49\u0e2d\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19",
+        "link": "#about-complaint-default"
+    },
+    "gallery_2566": {
+        "title": "\u0e1b\u0e35 2566",
+        "link": "#gallery-2566-default"
+    },
+    "gallery_2565": {
+        "title": "\u0e1b\u0e35 2565",
+        "link": "#gallery-2565-default"
+    },
+    "gallery_2564": {
+        "title": "\u0e1b\u0e35 2564",
+        "link": "#gallery-2564-default"
+    },
+    "gallery_2563": {
+        "title": "\u0e1b\u0e35 2563",
+        "link": "#gallery-2563-default"
+    }
+}
