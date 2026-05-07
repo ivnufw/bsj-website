@@ -1,6 +1,6 @@
 <?php
 // ข้อมูลการเชื่อมต่อ
-$servername = "bsjwb-db";
+$servername = "110.77.132.52";
 $username = "mysql"; 
 $password = "binaryso0"; // รหัสผ่านตามที่คุณระบุ
 $dbname = "b17_40341827_bsj"; // ชื่อฐานข้อมูลที่ถูกต้อง
